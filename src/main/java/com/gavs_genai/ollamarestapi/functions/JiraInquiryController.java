@@ -1,4 +1,4 @@
-package com.asecurityguru.ollamarestapi.functions;
+package com.gavs_genai.ollamarestapi.functions;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
