@@ -26,12 +26,12 @@ The Jira Stories Test Case Generation Application is a Spring Boot application d
 ## Configuration
 
 1. **Set up your environment**:
-   - Ensure you have Java 17 and Gradle installed.
+   - Ensure you have Java 23 and Gradle installed.
 
 2. **Configure the application properties**:
    - Update `src/main/resources/application.properties` with your JIRA API credentials:
      ```properties
-     jira.username=email@domain.com
+     jira.username=email@gavstech.com
      jira.apiToken=YOUR_JIRA_API_TOKEN
      jira.apiUrl=https://jira.attlasian.net/v1
      ```
@@ -49,4 +49,3 @@ The Jira Stories Test Case Generation Application is a Spring Boot application d
 
 
 ## CREDITS
-Raghu The Security Expert and ASG
